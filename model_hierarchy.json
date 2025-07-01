@@ -1,0 +1,1315 @@
+{
+    "Sites": [
+        {
+            "GlobalId": "2RVQCDFcH3mQ2NwHKsTHCE",
+            "Name": "Grundstück",
+            "ifcType": "IfcSite",
+            "Children": []
+        }
+    ],
+    "Buildings": [
+        {
+            "GlobalId": "2oLg3Yt_DFph44YNE2TTsm",
+            "Name": "default project",
+            "ifcType": "IfcBuilding",
+            "ParentSite": null,
+            "Children": [
+                "2YmaQ8oXj9A8Fo5t$6NGj7",
+                "2_GGjNQajEARj3jIQ9LO1O",
+                "3oSFRzJxH6dx5i2YOgNzbB",
+                "0v5Hvk1Of8ZRdLSHPAdbTI",
+                "2zDm54YAfBBRXSNBaFUbVz"
+            ]
+        }
+    ],
+    "Storeys": [
+        {
+            "GlobalId": "2YmaQ8oXj9A8Fo5t$6NGj7",
+            "Name": "UG",
+            "ifcType": "IfcBuildingStorey",
+            "ParentBuilding": null,
+            "Children": [
+                "0tkgbUMcT25OBOhCgbQt78",
+                "3wfje55mH3JvI46Wj4j1NM",
+                "3iUI97K5n3JRrmkA$BByCT",
+                "2tEqOx7wDFgOpUq3HZz575",
+                "1AQJmd6of9O9FEUZL24yU0",
+                "0jUkzp7Zv2juPmBLRjOsP5",
+                "27CB94Un19bxWjEMfDF_tz",
+                "1qWD_bIK5BPhwpat8Vecr4",
+                "12wk4OjFbAdQEnfFlW_pHi",
+                "0EqVs143DDvvTMAodqRENs",
+                "0yqdzF7l1A$hGK_k82peeY",
+                "3v45mQ2fvEgecIqcI9cyy5",
+                "1h1CloBMPAY8QSWcibM7NS",
+                "1RQSAgYsn1QPdJG$53EVGr",
+                "0qztQy0ALExBliFucDnxKg",
+                "3ernRpSjH1BebtZ8mPrffA",
+                "1Yj0X7yOz4bvdIRu10xxue",
+                "0nWdsEWzP0NABDMtJ3UHtm",
+                "0IjXb58LL3teqXdD9FQjxd",
+                "1QBpCjMP141eGwOGp3KyBm",
+                "3aWZMyJF51w9UrVyjKORKG",
+                "0VrmhK1OvEPvlAxiuYu_ST",
+                "2f6tMUEfv7jwA6u3eeg2MS",
+                "2rFHwHXP98bhXDc8ziWhGL",
+                "1QkKxMqDv7nuSnClC0HTpb",
+                "1cTPue28D2tej2wdtN2O_a",
+                "1Lh9kPvIP9K8x1cSw46NVh",
+                "0fDs7Jrab44BjOadqHVpL_"
+            ],
+            "Pset_SpatialData": {
+                "BuildingStory": "UG",
+                "ElevationOfStory": -3.4
+            }
+        },
+        {
+            "GlobalId": "2_GGjNQajEARj3jIQ9LO1O",
+            "Name": "EG",
+            "ifcType": "IfcBuildingStorey",
+            "ParentBuilding": null,
+            "Children": [
+                "1XkH_0vzHDrP8GZMYLOGFG",
+                "0ZwZZgHxn4yf6BldHeb9ym",
+                "3T91p65crESxr4y$Tfg1M9",
+                "3I2XpwQ79DPeRyB1_jlRMy",
+                "1apYJS1nb0hwwB796NO8WO",
+                "3f6SAZhV560B7zK2H8j0Wg",
+                "2b_aSi4gb7r9gSUUIVhV2M",
+                "1ARhlb1iH0LeM48qgYmAnE",
+                "2N584zsGT2yO$RXP13_ayO",
+                "2tC1hgc2fEh8NVylWUvVu7",
+                "3PQmmT7M50rAU30c1cw7R$",
+                "3YZMWWvjP5ffuxO_6InFab",
+                "3UYBFXLTn4RPTwltbvkTEO",
+                "3AhQ9tZFP4RR3lYa0TkIIA",
+                "1O9o5Y8VD5WBT8joEISsBc",
+                "1JK6fblDL0yAsIZzQLCZwv",
+                "0sNcbEc0v8Of3N4S0myPNb",
+                "2_OIqbEZb2txxSCeBnEXrJ",
+                "11KH3IPyHEfwEGIZShYC0V",
+                "2z9xB4Ayb449BCMhwh11Fu",
+                "2ikvhjLlnAfBYVASlF3TDp",
+                "0MtMvVZmX5_PwZxUXefSrA",
+                "1wg1bqPCj7Zv1JDJA8q_9_",
+                "0d9kREJMX68P32$dBft5Ou",
+                "0i8I7bnrLAwQZS_iYbjL1O",
+                "34IEhuPur2Zgh$QpYbZk8t",
+                "05FXfjjGb1DxuXWAp4rsTI",
+                "2eHfWzpGj23881UFurd2Jh",
+                "22pqgOl8n5VPd2NcA2LwoR",
+                "28n_Z09UTDkuRlnBFzUFtB",
+                "1KhKzppyb3zfh8p4DzfKrA",
+                "10Vjfp_YLEk9jam4SREvLH",
+                "0xUglwixj0pxfmEdkpk174",
+                "3R6IeDpxf8igfkhJhKRYiP",
+                "0hH0oTlif50gOzclVe0Bxs",
+                "3CLHxxLNHD7eDEBX4R0SC$",
+                "3vTGOfPIrENRgl4CoBni3U",
+                "01yEWdNLD78wN9JgQ6LIWe",
+                "0k4IqAqLD1pQkqY$DjeCza",
+                "1C7XlH$DbCtQYf$m9Qf$AO",
+                "0uG8lflA9BBRX0xZjys9nI",
+                "1WNOM6Xnf3juItdU8l19bh",
+                "37HjMDxavAqBD2$Dm3zVzX",
+                "2p19vUCdjBhhHkfT8MLtO7",
+                "2LYa4$LBLCEeAC42AaxtOB",
+                "0o7k7s3Tn7X9e9cO0BolsS",
+                "1Qe$mAeqj4pBFBmKXngX1p",
+                "27y3XFPAf2_AVQSif_QNwp",
+                "2K9D_BlGHE3fKF95Nsi7dB",
+                "0OYPGHe2L18hzwbyKNVoWR",
+                "0GlWqPZeP5O93LEZMDFq1w",
+                "2pS0VT1JT7h8FD1KAzSC7c",
+                "0SkiI2s5T5duo2fcGlzxlB",
+                "0MeJbmHoD2XPKPDBA4JjKK",
+                "24__r3Tiz9ex8cMNpmOl$S",
+                "0pom_mSYn3fxKfAnJN4A2T",
+                "2fgf2TYZnF6hMtNSH5dCej",
+                "3Alr6qyGnDmei5WpemYJmd",
+                "0xotR0FSz5iuVvg_TuRNhA",
+                "2UeQFMA5j6aByZxsUTDI1T",
+                "3M9a1jTW9F7RHY7D7RURc0",
+                "0GbHKYj2z7AhK9VBuCDFmy",
+                "3ly5M$Ak99KBbS4Un3sJJT",
+                "3mTghv0wT96QnhB_2iOMrV",
+                "37p15yvhL6BPwcr3y6bQad",
+                "2lk8ATQRL3YhM35IFLYXiz",
+                "021YoEi1HD9eSoSLT0LMfy",
+                "2TeA0dkcv5mOYDoikAt8o6",
+                "3LucVYu2nFCRRSWroqLzt$",
+                "2LdGfbjKz6ah7X5m6r8rHu",
+                "3whZk0fIHE1gpuYvr1I1c3",
+                "080dwkmfr3LxVuspG_sSG1"
+            ],
+            "Pset_SpatialData": {
+                "BuildingStory": "EG",
+                "ElevationOfStory": -3.4
+            }
+        },
+        {
+            "GlobalId": "3oSFRzJxH6dx5i2YOgNzbB",
+            "Name": "O1",
+            "ifcType": "IfcBuildingStorey",
+            "ParentBuilding": null,
+            "Children": [
+                "19Ozt_L8TE3fkIGtAuKItO",
+                "28RMNEmtz4$uVWB6ms0CiG",
+                "1$cBxjRQ1FsQONrrY8B3k3",
+                "31aH1_rD95RBO_iRy7cv4k",
+                "1bpYw7S7v6bAxwpm5$c7Vl",
+                "3ASv4fm75CxOQEeoGw5BLT",
+                "3qTqD$SwvCMA_D01lE_XiD",
+                "1bfzTzDlX489ZfwO$AilbC",
+                "1yaDLe14T8KwJrBYj$7q$w",
+                "3L47X8dVX5herhVMscALmr",
+                "1x5jcUTojBDw3viye5xwQ4",
+                "02elX7_Bn8iOvJoCquoGkE",
+                "0yYm8GUG91FwVoYIMqgbFo",
+                "3nEtufSFj7bwK99Y7Xt8xx",
+                "2gZx4S4InFEQV5YKAUlif4",
+                "0Znm4uehj4kuU5BgBzkqy4",
+                "1axrM9joj61u0oXLS1Ttf9",
+                "0yMUqQtKDDs9OwtNMfep84",
+                "3Rkch3HGb0X9S2f1lSfcD6",
+                "3xZWKxrVX5jwdqmXvjnIV2",
+                "2ci5lICdr7pOS2mW$W0wP1",
+                "1u4Zo2jQL9gASAFYaTz1jW",
+                "3d0fK$8DX0meMGhg36kB7u",
+                "3hCB$dhs5FSOHfngdCsgfu",
+                "0NzftwtED7aQ38hqMMJXD4",
+                "2jLsVJMrb0$OSXdsi26MV9",
+                "1wKsjj0c11rQ816_REiPlJ",
+                "39yhdTQs5Epu9Axnmf3P0m",
+                "00cyc6X2HF3ArBs3wCvnUQ",
+                "3qnVtPCEr9$B3s2jeAzWJQ",
+                "0lxw45W9nEauJ2ETSqlbco",
+                "1WkpEKrWrFT9Ax49EZ3aEc",
+                "2U98EYb01FMxsSO6N$Hual",
+                "3zpfpzQCP5D8RpiI7jiyDJ",
+                "1Si5jQB4f06gxeqCAbM0to",
+                "0YMDnBzFv1EeCZueSkHoO3",
+                "04k3rAPEb24QzkQ2ET3cQ6",
+                "3wg1xnTKf3vgHaJXxifqLm",
+                "2ZmRqXVXr5ngOV0ql0gYau",
+                "2eyDBn3j957QXfs9PsBbmI",
+                "3N3RQR8LrEqREY_BPr$O5m",
+                "0fnKcYTsHFuOqM$gNs4Xm0",
+                "0A_YAeoyr7Bgku5T2tFqPz",
+                "0vfcaXlyDFSgBQnYuQFDU3",
+                "016LB9y_D80Q$hc78bFJbd",
+                "1dA8Ni6Cn9vgZx9i5Q6ArJ",
+                "3gY2kXhAj6pRGcH3OliaBs",
+                "308bGCvmf32fNFqLAHCweZ",
+                "0hyssQzI17DPpM9d5me8l0",
+                "1hB$uqC6z1QeNXEPB9zgPM",
+                "0vc5jn$tf6z8BFuF09YeOB",
+                "3QtE6_nBr6GxU4fykTyZhw",
+                "3282sO3MvAjhNbOglIftYa",
+                "12qTmdwoD7fuUbcfp3xAyG",
+                "3GsDQeS$H089MLnIrFhRZT",
+                "07TiCDcmb5tvdFo9AXziAW",
+                "15j8qQXrb4tgBd6kpoG1pI",
+                "1KMIC6HZP5JxYpMUVxeb_c",
+                "2srsZTr1nDLR2Fcv4LxMcr",
+                "26hT7Bc85CI8v7I87i4be_",
+                "2zlBtCkyTDxwS5ZEJZ1oeS",
+                "1izjrNgKvE3ulotPzaa3Qa",
+                "1bP$MVD4v97ejReJNlNwWq",
+                "0IA0XcS$L88gLdK9AhEHyj",
+                "18RD2uoh9FmwlcX1HJGkOw",
+                "1KDOz6kfD4yBWdPHaN6f9A",
+                "3v53GGIp13yvGbmDj9cpP9",
+                "0mvx4L4VnBWf2800PAuksn",
+                "1jJv2pBs5CnR_mHUEhD1Iy",
+                "0$F2sbDW52Hv0s9WtRiYy2",
+                "1UWlUGwqHElPT8JV0Y22_j",
+                "2ky6TqzMD7gwJbHxE3Kcxy",
+                "1GmqKQZe177As5pDpJEjmN",
+                "29M4$NIOf0oggGQM0bnPUd",
+                "2M1K5EINnBBwTzxQ4tDam5"
+            ],
+            "Pset_SpatialData": {
+                "BuildingStory": "O1",
+                "ElevationOfStory": 3.4
+            }
+        },
+        {
+            "GlobalId": "0v5Hvk1Of8ZRdLSHPAdbTI",
+            "Name": "O2",
+            "ifcType": "IfcBuildingStorey",
+            "ParentBuilding": null,
+            "Children": [
+                "30TBCmyGbEg8eYz0Z3J9jm",
+                "0hOAp3_3rFM8N_6r6wB833",
+                "0Jr8xLXxz8uggmozFCL356",
+                "0L22ikmHjEZhPiksOJSFUo",
+                "3UT7ZDzc1CNAPAEtTUZ_dj",
+                "07GcracSn8dQSbCKMeFNKJ",
+                "2bf1yiLXjAw8jUXZSMybBs",
+                "30t3pESuXEPfm4dohLWIXb"
+            ],
+            "Pset_SpatialData": {
+                "BuildingStory": "O2",
+                "ElevationOfStory": 6.9
+            }
+        },
+        {
+            "GlobalId": "2zDm54YAfBBRXSNBaFUbVz",
+            "Name": "Storey 6900",
+            "ifcType": "IfcBuildingStorey",
+            "ParentBuilding": null,
+            "Children": [],
+            "Pset_SpatialData": {
+                "BuildingStory": "Storey 6900",
+                "ElevationOfStory": 6.9
+            }
+        }
+    ],
+    "Elements": [
+        {
+            "GlobalId": "0tkgbUMcT25OBOhCgbQt78",
+            "Name": "FLOORING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "3wfje55mH3JvI46Wj4j1NM",
+            "Name": "CEILING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "3iUI97K5n3JRrmkA$BByCT",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "2tEqOx7wDFgOpUq3HZz575",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "1AQJmd6of9O9FEUZL24yU0",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "0jUkzp7Zv2juPmBLRjOsP5",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "1qWD_bIK5BPhwpat8Vecr4",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "12wk4OjFbAdQEnfFlW_pHi",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "0EqVs143DDvvTMAodqRENs",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "3v45mQ2fvEgecIqcI9cyy5",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "1RQSAgYsn1QPdJG$53EVGr",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "0qztQy0ALExBliFucDnxKg",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "3ernRpSjH1BebtZ8mPrffA",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "0nWdsEWzP0NABDMtJ3UHtm",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "1QBpCjMP141eGwOGp3KyBm",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "3aWZMyJF51w9UrVyjKORKG",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "0VrmhK1OvEPvlAxiuYu_ST",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "2f6tMUEfv7jwA6u3eeg2MS",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "2rFHwHXP98bhXDc8ziWhGL",
+            "Name": "INSULATION",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "1XkH_0vzHDrP8GZMYLOGFG",
+            "Name": "FLOORING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "0ZwZZgHxn4yf6BldHeb9ym",
+            "Name": "CEILING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "3T91p65crESxr4y$Tfg1M9",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "3I2XpwQ79DPeRyB1_jlRMy",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "1apYJS1nb0hwwB796NO8WO",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "3f6SAZhV560B7zK2H8j0Wg",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "2b_aSi4gb7r9gSUUIVhV2M",
+            "Name": "FLOORING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "1ARhlb1iH0LeM48qgYmAnE",
+            "Name": "CEILING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "2N584zsGT2yO$RXP13_ayO",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "2tC1hgc2fEh8NVylWUvVu7",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "3PQmmT7M50rAU30c1cw7R$",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "3YZMWWvjP5ffuxO_6InFab",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "3UYBFXLTn4RPTwltbvkTEO",
+            "Name": "FLOORING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "3AhQ9tZFP4RR3lYa0TkIIA",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "1O9o5Y8VD5WBT8joEISsBc",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "1JK6fblDL0yAsIZzQLCZwv",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "0sNcbEc0v8Of3N4S0myPNb",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "2_OIqbEZb2txxSCeBnEXrJ",
+            "Name": "FLOORING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "11KH3IPyHEfwEGIZShYC0V",
+            "Name": "CEILING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "2z9xB4Ayb449BCMhwh11Fu",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "2ikvhjLlnAfBYVASlF3TDp",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "0MtMvVZmX5_PwZxUXefSrA",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "1wg1bqPCj7Zv1JDJA8q_9_",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "28n_Z09UTDkuRlnBFzUFtB",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "1KhKzppyb3zfh8p4DzfKrA",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "10Vjfp_YLEk9jam4SREvLH",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "3R6IeDpxf8igfkhJhKRYiP",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "3CLHxxLNHD7eDEBX4R0SC$",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "01yEWdNLD78wN9JgQ6LIWe",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "0k4IqAqLD1pQkqY$DjeCza",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "0uG8lflA9BBRX0xZjys9nI",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "37HjMDxavAqBD2$Dm3zVzX",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "2LYa4$LBLCEeAC42AaxtOB",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "1Qe$mAeqj4pBFBmKXngX1p",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "27y3XFPAf2_AVQSif_QNwp",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "0OYPGHe2L18hzwbyKNVoWR",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "0GlWqPZeP5O93LEZMDFq1w",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "0SkiI2s5T5duo2fcGlzxlB",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "0MeJbmHoD2XPKPDBA4JjKK",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "24__r3Tiz9ex8cMNpmOl$S",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "0pom_mSYn3fxKfAnJN4A2T",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "2fgf2TYZnF6hMtNSH5dCej",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "3Alr6qyGnDmei5WpemYJmd",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "0xotR0FSz5iuVvg_TuRNhA",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "3M9a1jTW9F7RHY7D7RURc0",
+            "Name": "INSULATION",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "19Ozt_L8TE3fkIGtAuKItO",
+            "Name": "CEILING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "28RMNEmtz4$uVWB6ms0CiG",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "1$cBxjRQ1FsQONrrY8B3k3",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "31aH1_rD95RBO_iRy7cv4k",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "1bpYw7S7v6bAxwpm5$c7Vl",
+            "Name": "CEILING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "3ASv4fm75CxOQEeoGw5BLT",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "3qTqD$SwvCMA_D01lE_XiD",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "1bfzTzDlX489ZfwO$AilbC",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "1yaDLe14T8KwJrBYj$7q$w",
+            "Name": "FLOORING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "3L47X8dVX5herhVMscALmr",
+            "Name": "CEILING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "1x5jcUTojBDw3viye5xwQ4",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "02elX7_Bn8iOvJoCquoGkE",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "0yYm8GUG91FwVoYIMqgbFo",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "3nEtufSFj7bwK99Y7Xt8xx",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "2gZx4S4InFEQV5YKAUlif4",
+            "Name": "FLOORING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "0Znm4uehj4kuU5BgBzkqy4",
+            "Name": "CEILING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "1axrM9joj61u0oXLS1Ttf9",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "0yMUqQtKDDs9OwtNMfep84",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "3Rkch3HGb0X9S2f1lSfcD6",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "3xZWKxrVX5jwdqmXvjnIV2",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "2ci5lICdr7pOS2mW$W0wP1",
+            "Name": "FLOORING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "1u4Zo2jQL9gASAFYaTz1jW",
+            "Name": "CEILING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "3d0fK$8DX0meMGhg36kB7u",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "3hCB$dhs5FSOHfngdCsgfu",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "0NzftwtED7aQ38hqMMJXD4",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "2jLsVJMrb0$OSXdsi26MV9",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "2U98EYb01FMxsSO6N$Hual",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "3zpfpzQCP5D8RpiI7jiyDJ",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "1Si5jQB4f06gxeqCAbM0to",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "04k3rAPEb24QzkQ2ET3cQ6",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "2ZmRqXVXr5ngOV0ql0gYau",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "3N3RQR8LrEqREY_BPr$O5m",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "0A_YAeoyr7Bgku5T2tFqPz",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "016LB9y_D80Q$hc78bFJbd",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "1dA8Ni6Cn9vgZx9i5Q6ArJ",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "308bGCvmf32fNFqLAHCweZ",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "1hB$uqC6z1QeNXEPB9zgPM",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "3QtE6_nBr6GxU4fykTyZhw",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "12qTmdwoD7fuUbcfp3xAyG",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "3GsDQeS$H089MLnIrFhRZT",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "15j8qQXrb4tgBd6kpoG1pI",
+            "Name": "INSULATION",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "2srsZTr1nDLR2Fcv4LxMcr",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "26hT7Bc85CI8v7I87i4be_",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "2zlBtCkyTDxwS5ZEJZ1oeS",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "1izjrNgKvE3ulotPzaa3Qa",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "1bP$MVD4v97ejReJNlNwWq",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "0IA0XcS$L88gLdK9AhEHyj",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "1KDOz6kfD4yBWdPHaN6f9A",
+            "Name": "ROOFING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "0hOAp3_3rFM8N_6r6wB833",
+            "Name": "INSULATION",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "0v5Hvk1Of8ZRdLSHPAdbTI"
+        },
+        {
+            "GlobalId": "0L22ikmHjEZhPiksOJSFUo",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "0v5Hvk1Of8ZRdLSHPAdbTI"
+        },
+        {
+            "GlobalId": "3UT7ZDzc1CNAPAEtTUZ_dj",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "0v5Hvk1Of8ZRdLSHPAdbTI"
+        },
+        {
+            "GlobalId": "07GcracSn8dQSbCKMeFNKJ",
+            "Name": "CLADDING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "0v5Hvk1Of8ZRdLSHPAdbTI"
+        },
+        {
+            "GlobalId": "2bf1yiLXjAw8jUXZSMybBs",
+            "Name": "ROOFING",
+            "ifcType": "IfcCovering",
+            "ParentStorey": "0v5Hvk1Of8ZRdLSHPAdbTI"
+        },
+        {
+            "GlobalId": "0GbHKYj2z7AhK9VBuCDFmy",
+            "Name": "DOOR Exterior",
+            "ifcType": "IfcDoor",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "0IjXb58LL3teqXdD9FQjxd",
+            "Name": "BASESLAB",
+            "ifcType": "IfcSlab",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "2pS0VT1JT7h8FD1KAzSC7c",
+            "Name": "FLOOR",
+            "ifcType": "IfcSlab",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "2UeQFMA5j6aByZxsUTDI1T",
+            "Name": "BASESLAB",
+            "ifcType": "IfcSlab",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "07TiCDcmb5tvdFo9AXziAW",
+            "Name": "Slab Balcony",
+            "ifcType": "IfcSlab",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "1KMIC6HZP5JxYpMUVxeb_c",
+            "Name": "FLOOR",
+            "ifcType": "IfcSlab",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "18RD2uoh9FmwlcX1HJGkOw",
+            "Name": "ROOF",
+            "ifcType": "IfcSlab",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "30TBCmyGbEg8eYz0Z3J9jm",
+            "Name": "Slab Balcony",
+            "ifcType": "IfcSlab",
+            "ParentStorey": "0v5Hvk1Of8ZRdLSHPAdbTI"
+        },
+        {
+            "GlobalId": "0Jr8xLXxz8uggmozFCL356",
+            "Name": "ROOF",
+            "ifcType": "IfcSlab",
+            "ParentStorey": "0v5Hvk1Of8ZRdLSHPAdbTI"
+        },
+        {
+            "GlobalId": "27CB94Un19bxWjEMfDF_tz",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "0yqdzF7l1A$hGK_k82peeY",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "1h1CloBMPAY8QSWcibM7NS",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "1Yj0X7yOz4bvdIRu10xxue",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2YmaQ8oXj9A8Fo5t$6NGj7"
+        },
+        {
+            "GlobalId": "0d9kREJMX68P32$dBft5Ou",
+            "Name": "Wall Interior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "0i8I7bnrLAwQZS_iYbjL1O",
+            "Name": "Wall Interior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "34IEhuPur2Zgh$QpYbZk8t",
+            "Name": "Wall Interior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "05FXfjjGb1DxuXWAp4rsTI",
+            "Name": "Wall Interior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "2eHfWzpGj23881UFurd2Jh",
+            "Name": "Wall Interior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "22pqgOl8n5VPd2NcA2LwoR",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "0xUglwixj0pxfmEdkpk174",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "0hH0oTlif50gOzclVe0Bxs",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "3vTGOfPIrENRgl4CoBni3U",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "1C7XlH$DbCtQYf$m9Qf$AO",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "1WNOM6Xnf3juItdU8l19bh",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "2p19vUCdjBhhHkfT8MLtO7",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "0o7k7s3Tn7X9e9cO0BolsS",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "2K9D_BlGHE3fKF95Nsi7dB",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "1wKsjj0c11rQ816_REiPlJ",
+            "Name": "Wall Interior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "39yhdTQs5Epu9Axnmf3P0m",
+            "Name": "Wall Interior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "00cyc6X2HF3ArBs3wCvnUQ",
+            "Name": "Wall Interior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "3qnVtPCEr9$B3s2jeAzWJQ",
+            "Name": "Wall Interior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "0lxw45W9nEauJ2ETSqlbco",
+            "Name": "Wall Interior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "1WkpEKrWrFT9Ax49EZ3aEc",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "0YMDnBzFv1EeCZueSkHoO3",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "3wg1xnTKf3vgHaJXxifqLm",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "2eyDBn3j957QXfs9PsBbmI",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "0fnKcYTsHFuOqM$gNs4Xm0",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "0vfcaXlyDFSgBQnYuQFDU3",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "3gY2kXhAj6pRGcH3OliaBs",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "0hyssQzI17DPpM9d5me8l0",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "0vc5jn$tf6z8BFuF09YeOB",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "3282sO3MvAjhNbOglIftYa",
+            "Name": "Wall Exterior",
+            "ifcType": "IfcWallStandardCase",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "3ly5M$Ak99KBbS4Un3sJJT",
+            "Name": "WINDOW Exterior",
+            "ifcType": "IfcWindow",
+            "ParentStorey": "2_GGjNQajEARj3jIQ9LO1O"
+        },
+        {
+            "GlobalId": "3v53GGIp13yvGbmDj9cpP9",
+            "Name": "WINDOW Exterior",
+            "ifcType": "IfcWindow",
+            "ParentStorey": "3oSFRzJxH6dx5i2YOgNzbB"
+        },
+        {
+            "GlobalId": "18Oq3SXNv90hpL3BfSfkX7",
+            "Name": "3fsDSBbPn5dfhwGs8C$Koq_op",
+            "ifcType": "IfcOpeningElement",
+            "ParentStorey": null
+        },
+        {
+            "GlobalId": "0$HVNgw3XCxeQf0wxI6tHG",
+            "Name": "0yH_htIXT8oPdTFw_ScqHD_op",
+            "ifcType": "IfcOpeningElement",
+            "ParentStorey": null
+        },
+        {
+            "GlobalId": "0BcZEkauPBt8mT1$c2JFEB",
+            "Name": "DOOR Exterior_op",
+            "ifcType": "IfcOpeningElement",
+            "ParentStorey": null
+        },
+        {
+            "GlobalId": "3ZXzLR7Vb3s9lHEOxbRlsj",
+            "Name": "DOOR Exterior_op",
+            "ifcType": "IfcOpeningElement",
+            "ParentStorey": null
+        },
+        {
+            "GlobalId": "3PlwMRphHB0Aqa9puS4qzw",
+            "Name": "DOOR Exterior_op",
+            "ifcType": "IfcOpeningElement",
+            "ParentStorey": null
+        },
+        {
+            "GlobalId": "1YtDTtjt99CgY6YsLuRb8N",
+            "Name": "DOOR Exterior_op",
+            "ifcType": "IfcOpeningElement",
+            "ParentStorey": null
+        },
+        {
+            "GlobalId": "2G9oSgqMb6hO7gc8HK9euz",
+            "Name": "WINDOW Exterior_op",
+            "ifcType": "IfcOpeningElement",
+            "ParentStorey": null
+        },
+        {
+            "GlobalId": "2NzzM9ZEH3vhdWCJnh_jrG",
+            "Name": "WINDOW Exterior_op",
+            "ifcType": "IfcOpeningElement",
+            "ParentStorey": null
+        },
+        {
+            "GlobalId": "3NplUnfzjDyxQWgDHDX7Z_",
+            "Name": "WINDOW Exterior_op",
+            "ifcType": "IfcOpeningElement",
+            "ParentStorey": null
+        },
+        {
+            "GlobalId": "2Tne2QBxD4teuBaLkvTgT1",
+            "Name": "0kfAahSxrFuOE$OlbQEdcH_op",
+            "ifcType": "IfcOpeningElement",
+            "ParentStorey": null
+        },
+        {
+            "GlobalId": "0iD6weO$z3gxieAHpgawNU",
+            "Name": "WINDOW Exterior_op",
+            "ifcType": "IfcOpeningElement",
+            "ParentStorey": null
+        },
+        {
+            "GlobalId": "3iXwJtNdvC_PvWQnUYMNDw",
+            "Name": "WINDOW Exterior_op",
+            "ifcType": "IfcOpeningElement",
+            "ParentStorey": null
+        },
+        {
+            "GlobalId": "0uHSt7MzP4EPB57RHvbisI",
+            "Name": "WINDOW Exterior_op",
+            "ifcType": "IfcOpeningElement",
+            "ParentStorey": null
+        }
+    ]
+}
